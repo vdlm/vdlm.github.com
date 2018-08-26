@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>12th Meetup</title>
+   	<link>..</link>
+        <generator>jAlbum 16.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>20170620_185454</title>
+            <link>slides/20170620_185454.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170620_185454.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170620_185454.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 18:54:54 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170620_185454.jpg</guid>
+        </item>
+        <item>
+            <title>20170620_201947 (1)</title>
+            <link>slides/20170620_201947%20%281%29.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170620_201947%20%281%29.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170620_201947%20%281%29.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 20:19:47 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170620_201947%20%281%29.jpg</guid>
+        </item>
+        <item>
+            <title>20170620_201953</title>
+            <link>slides/20170620_201953.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170620_201953.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170620_201953.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 20:19:53 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170620_201953.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5556</title>
+            <link>slides/IMG_5556.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5556.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5556.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 18:51:47 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5556.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5560</title>
+            <link>slides/IMG_5560.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5560.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5560.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 18:52:15 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5560.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5561</title>
+            <link>slides/IMG_5561.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5561.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5561.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 18:54:32 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5561.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5553</title>
+            <link>slides/IMG_5553.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5553.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5553.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 18:47:38 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5553.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5564</title>
+            <link>slides/IMG_5564.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5564.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5564.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 18:54:47 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5564.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5566</title>
+            <link>slides/IMG_5566.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5566.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5566.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 19:33:26 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5566.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5571</title>
+            <link>slides/IMG_5571.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5571.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5571.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 19:56:50 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5571.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5572</title>
+            <link>slides/IMG_5572.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5572.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5572.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 20:04:26 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5572.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5573</title>
+            <link>slides/IMG_5573.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5573.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5573.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 20:04:31 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5573.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5574</title>
+            <link>slides/IMG_5574.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5574.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5574.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 20:04:35 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5574.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5577</title>
+            <link>slides/IMG_5577.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5577.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5577.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 20:20:11 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5577.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5578</title>
+            <link>slides/IMG_5578.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5578.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5578.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 20:20:40 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5578.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5579</title>
+            <link>slides/IMG_5579.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5579.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5579.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 20:24:51 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5579.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5581</title>
+            <link>slides/IMG_5581.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5581.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5581.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 20:41:01 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5581.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5582</title>
+            <link>slides/IMG_5582.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5582.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5582.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 20:44:29 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5582.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5584</title>
+            <link>slides/IMG_5584.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5584.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5584.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 21:05:21 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5584.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5587</title>
+            <link>slides/IMG_5587.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5587.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5587.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 21:06:08 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5587.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5589</title>
+            <link>slides/IMG_5589.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5589.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5589.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 21:06:54 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5589.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5590</title>
+            <link>slides/IMG_5590.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5590.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5590.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 21:30:51 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5590.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5594</title>
+            <link>slides/IMG_5594.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5594.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5594.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 21:34:47 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5594.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5596</title>
+            <link>slides/IMG_5596.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5596.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5596.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 21:38:53 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5596.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5597</title>
+            <link>slides/IMG_5597.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5597.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5597.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 22:16:50 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5597.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5598</title>
+            <link>slides/IMG_5598.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:28 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5598.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5598.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 20 Jun 2017 22:16:55 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_5598.jpg</guid>
+        </item>
+    </channel>
+</rss>

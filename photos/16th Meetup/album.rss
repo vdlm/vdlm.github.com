@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>16th Meetup</title>
+   	<link>..</link>
+        <generator>jAlbum 16.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>2018-02-27 18.49.41</title>
+            <link>slides/2018-02-27%2018.49.41.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:49 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2018-02-27%2018.49.41.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/2018-02-27%2018.49.41.jpg" width="830" height="467"/>
+            <jalbum:exif originalDate="Tue, 27 Feb 2018 18:49:41 +0100" cameraMake="samsung" cameraModel="SM-G935F"/>
+            <guid isPermaLink="false">slides/2018-02-27%2018.49.41.jpg</guid>
+        </item>
+        <item>
+            <title>2018-02-27 19.37.36</title>
+            <link>slides/2018-02-27%2019.37.36.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:49 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2018-02-27%2019.37.36.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/2018-02-27%2019.37.36.jpg" width="830" height="467"/>
+            <jalbum:exif originalDate="Tue, 27 Feb 2018 19:37:36 +0100" cameraMake="samsung" cameraModel="SM-G935F"/>
+            <guid isPermaLink="false">slides/2018-02-27%2019.37.36.jpg</guid>
+        </item>
+        <item>
+            <title>2018-02-27 18.49.31</title>
+            <link>slides/2018-02-27%2018.49.31.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:49 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/2018-02-27%2018.49.31.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/2018-02-27%2018.49.31.jpg" width="830" height="467"/>
+            <jalbum:exif originalDate="Tue, 27 Feb 2018 18:49:31 +0100" cameraMake="samsung" cameraModel="SM-G935F"/>
+            <guid isPermaLink="false">slides/2018-02-27%2018.49.31.jpg</guid>
+        </item>
+    </channel>
+</rss>

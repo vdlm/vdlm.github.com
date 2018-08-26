@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>8th Meetup</title>
+   	<link>..</link>
+        <generator>jAlbum 16.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMG_9991</title>
+            <link>slides/IMG_9991.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:20 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9991.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_9991.jpg" width="465" height="620"/>
+            <jalbum:exif originalDate="Tue, 17 Jan 2017 18:50:56 +0100" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_9991.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_9992</title>
+            <link>slides/IMG_9992.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:20 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9992.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_9992.jpg" width="465" height="620"/>
+            <jalbum:exif originalDate="Tue, 17 Jan 2017 18:50:59 +0100" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_9992.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_9994</title>
+            <link>slides/IMG_9994.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:20 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9994.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_9994.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 17 Jan 2017 18:51:10 +0100" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_9994.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_9995</title>
+            <link>slides/IMG_9995.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:20 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9995.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_9995.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Tue, 17 Jan 2017 18:51:25 +0100" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_9995.jpg</guid>
+        </item>
+    </channel>
+</rss>

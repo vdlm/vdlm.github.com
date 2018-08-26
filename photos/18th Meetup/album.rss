@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>18th Meetup</title>
+   	<link>..</link>
+        <generator>jAlbum 16.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>20180503_090923</title>
+            <link>slides/20180503_090923.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180503_090923.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180503_090923.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Thu, 03 May 2018 09:09:23 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180503_090923.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_142158</title>
+            <link>slides/20180507_142158.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_142158.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_142158.jpg" width="465" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 14:21:58 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_142158.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_151941</title>
+            <link>slides/20180507_151941.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_151941.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_151941.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 15:19:41 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_151941.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_152017</title>
+            <link>slides/20180507_152017.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_152017.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_152017.jpg" width="465" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 15:20:17 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_152017.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_190437</title>
+            <link>slides/20180507_190437.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_190437.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_190437.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 19:04:37 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_190437.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_192034</title>
+            <link>slides/20180507_192034.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_192034.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_192034.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 19:20:34 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_192034.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_192954</title>
+            <link>slides/20180507_192954.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_192954.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_192954.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 19:29:54 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_192954.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_192959</title>
+            <link>slides/20180507_192959.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_192959.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_192959.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 19:29:59 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_192959.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_193005</title>
+            <link>slides/20180507_193005.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_193005.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_193005.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 19:30:05 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_193005.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_195926</title>
+            <link>slides/20180507_195926.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_195926.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_195926.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 19:59:25 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_195926.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_195934</title>
+            <link>slides/20180507_195934.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_195934.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_195934.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 19:59:34 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_195934.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_200804</title>
+            <link>slides/20180507_200804.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_200804.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_200804.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 20:08:04 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_200804.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_200804(0)</title>
+            <link>slides/20180507_200804%280%29.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_200804%280%29.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_200804%280%29.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 20:08:04 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_200804%280%29.jpg</guid>
+        </item>
+        <item>
+            <title>20180507_200805</title>
+            <link>slides/20180507_200805.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20180507_200805.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20180507_200805.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Mon, 07 May 2018 20:08:05 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20180507_200805.jpg</guid>
+        </item>
+        <item>
+            <title>Photo-2018-05-29-10-06-39_8522</title>
+            <link>slides/Photo-2018-05-29-10-06-39_8522.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:54 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Photo-2018-05-29-10-06-39_8522.JPG" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/Photo-2018-05-29-10-06-39_8522.JPG" width="620" height="620"/>
+            <guid isPermaLink="false">slides/Photo-2018-05-29-10-06-39_8522.JPG</guid>
+        </item>
+    </channel>
+</rss>

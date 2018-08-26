@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Vienna Deep Learning Meetup</title>
+   	<link>.</link>
+        <generator>jAlbum 16.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="1st%20Meetup/album.rss" title="1st Meetup" thumbnail="1st%20Meetup/thumbs/highres_448875918.jpeg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="2nd%20Meetup/album.rss" title="2nd Meetup" thumbnail="2nd%20Meetup/thumbs/highres_449940433.jpeg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="4th%20Meetup/album.rss" title="4th Meetup" thumbnail="4th%20Meetup/thumbs/IMG_3390.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="8th%20Meetup/album.rss" title="8th Meetup" thumbnail="8th%20Meetup/thumbs/IMG_9991.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="9th%20Meetup/album.rss" title="9th Meetup" thumbnail="9th%20Meetup/thumbs/IMG_0576.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="11th%20Meetup/album.rss" title="11th Meetup" thumbnail="11th%20Meetup/thumbs/20170517_184904.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="12th%20Meetup/album.rss" title="12th Meetup" thumbnail="12th%20Meetup/thumbs/20170620_185454.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="13th%20Meetup/album.rss" title="13th Meetup" thumbnail="13th%20Meetup/thumbs/20171024_165613.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="14th%20Meetup/album.rss" title="14th Meetup" thumbnail="14th%20Meetup/thumbs/2017-11-20%2018.53.51.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="16th%20Meetup/album.rss" title="16th Meetup" thumbnail="16th%20Meetup/thumbs/2018-02-27%2018.49.41.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="17th%20Meetup/album.rss" title="17th Meetup" thumbnail="17th%20Meetup/thumbs/20180423_184948.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="18th%20Meetup/album.rss" title="18th Meetup" thumbnail="18th%20Meetup/thumbs/20180503_090923.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+    	<jalbum:link rel="sub" href="AI%20Summit%202017/album.rss" title="AI Summit 2017" thumbnail="AI%20Summit%202017/thumbs/20170904_161649.jpg" thumbnailWidth="160" thumbnailHeight="120" />
+        
+    </channel>
+</rss>

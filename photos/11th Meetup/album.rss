@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>11th Meetup</title>
+   	<link>..</link>
+        <generator>jAlbum 16.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>20170517_184904</title>
+            <link>slides/20170517_184904.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170517_184904.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170517_184904.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Wed, 17 May 2017 18:49:04 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170517_184904.jpg</guid>
+        </item>
+        <item>
+            <title>20170517_184918</title>
+            <link>slides/20170517_184918.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170517_184918.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170517_184918.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Wed, 17 May 2017 18:49:18 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170517_184918.jpg</guid>
+        </item>
+        <item>
+            <title>20170517_184944</title>
+            <link>slides/20170517_184944.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170517_184944.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170517_184944.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Wed, 17 May 2017 18:49:44 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170517_184944.jpg</guid>
+        </item>
+        <item>
+            <title>20170517_184927</title>
+            <link>slides/20170517_184927.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170517_184927.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170517_184927.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Wed, 17 May 2017 18:49:27 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170517_184927.jpg</guid>
+        </item>
+        <item>
+            <title>20170517_185032</title>
+            <link>slides/20170517_185032.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170517_185032.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170517_185032.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Wed, 17 May 2017 18:50:32 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170517_185032.jpg</guid>
+        </item>
+        <item>
+            <title>20170517_185034</title>
+            <link>slides/20170517_185034.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170517_185034.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170517_185034.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Wed, 17 May 2017 18:50:34 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170517_185034.jpg</guid>
+        </item>
+        <item>
+            <title>20170517_185623</title>
+            <link>slides/20170517_185623.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170517_185623.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170517_185623.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Wed, 17 May 2017 18:56:23 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170517_185623.jpg</guid>
+        </item>
+        <item>
+            <title>20170517_185626</title>
+            <link>slides/20170517_185626.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:26 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/20170517_185626.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/20170517_185626.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Wed, 17 May 2017 18:56:26 +0200" cameraMake="samsung" cameraModel="SM-G930F"/>
+            <guid isPermaLink="false">slides/20170517_185626.jpg</guid>
+        </item>
+    </channel>
+</rss>

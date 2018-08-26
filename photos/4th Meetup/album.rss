@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>4th Meetup</title>
+   	<link>..</link>
+        <generator>jAlbum 16.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMG_3390</title>
+            <link>slides/IMG_3390.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:19 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3390.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_3390.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Thu, 07 Jul 2016 18:11:32 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_3390.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_3391</title>
+            <link>slides/IMG_3391.html</link>
+            <pubDate>Sun, 26 Aug 2018 10:36:19 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_3391.jpg" width="160" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_3391.jpg" width="827" height="620"/>
+            <jalbum:exif originalDate="Thu, 07 Jul 2016 18:11:37 +0200" cameraMake="Apple" cameraModel="iPhone 6s"/>
+            <guid isPermaLink="false">slides/IMG_3391.jpg</guid>
+        </item>
+    </channel>
+</rss>
