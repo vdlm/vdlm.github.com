@@ -6,3 +6,4 @@ relative_links:
 include:
   - index2.md
   - test.md
+theme: jekyll-theme-tactile
