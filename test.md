@@ -8,6 +8,8 @@ title: Vienna Deep Learning Meetup
 </head>
 
 
+## HTML Table
+
 <table id="table_id" class="display">
     <thead>
         <tr>
@@ -27,7 +29,8 @@ title: Vienna Deep Learning Meetup
     </tbody>
 </table>
 
-<div class="datatable-begin"></div>
+
+## Markdown Table
 
 Food    | Description                           | Category | Sample type
 ------- | ------------------------------------- | -------- | -----------
@@ -36,10 +39,8 @@ Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
 Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
 Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
-<div class="datatable-end"></div>
-
 
 
 <script>
-$('table.display').DataTable()
+$('table').DataTable()
 </script>
