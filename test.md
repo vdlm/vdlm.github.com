@@ -3,6 +3,18 @@ title: Vienna Deep Learning Meetup
 datatable: true
 ---
 
+<script>
+$(document).ready(function(){
+
+    $('table.display').DataTable( {
+        paging: true,
+        stateSave: true,
+        searching: true
+    }
+        );
+});
+</script>
+
 <div class="datatable-begin"></div>
 
 Food    | Description                           | Category | Sample type
