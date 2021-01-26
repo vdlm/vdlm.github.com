@@ -1,3 +1,8 @@
+---
+title: Vienna Deep Learning Meetup
+datatable: true
+---
+
 # Vienna Deep Learning Meetup
 ## Slides & Resources
 
@@ -92,6 +97,8 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 # Talks & Presentations
 
+<div class="datatable-begin"></div>
+
 | Date       | MU# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
 | 2016-04-07 |  1  | Thomas Lidy & Jan Schlüter     | Deep Learning: History, Approaches, Applications                          | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) |
@@ -167,3 +174,5 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2021-01-13 |  37 | René Donner         | NeurIPS 2020 Review | [pdf](./Meetups/Meetup_37/slides/TODO) | 
 
 <a name="latest_slides"/>
+
+<div class="datatable-end"></div>
