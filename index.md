@@ -181,7 +181,17 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 <a name="latest_slides"/>
 
 <!-- added by Thomas Lidy to enable sortable tables, see https://www.datatables.net -->
+<!-- content in the {} brackets defines options, see https://datatables.net/reference/option/ -->
 <script>
-$('table').DataTable()
+$('table').DataTable({
+    paging: false,
+    columns: [
+    { "searchable": false },
+    { "type": "numeric"},
+    null,
+    null,
+    null
+  ]
+});
 </script>
 
