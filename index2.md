@@ -3,10 +3,9 @@ title: Vienna Deep Learning Meetup
 datatable: true
 ---
 
-# Vienna Deep Learning Meetup
-## Slides & Resources
-
 ![Logo](./img/dlmeetup_logo_150dpi.png "logo")
+
+# Slides & Resources
 
 ## Overview
 

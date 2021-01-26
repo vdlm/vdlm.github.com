@@ -1,5 +1,5 @@
 ---
-title: Vienna Deep Learning Meetup Title
+title: Vienna Deep Learning Meetup
 datatable: true
 ---
 

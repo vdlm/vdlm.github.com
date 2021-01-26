@@ -1,9 +1,11 @@
 plugins:
   - jekyll-relative-links
+datatable:
+  enabled: true
 relative_links:
   enabled: true
   collections: true
 include:
   - index2.md
   - test.md
-theme: jekyll-theme-tactile
+#theme: jekyll-theme-tactile
