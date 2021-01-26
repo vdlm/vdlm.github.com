@@ -184,7 +184,10 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 <!-- content in the {} brackets defines options, see https://datatables.net/reference/option/ -->
 <script>
 $('table').DataTable({
-    paging: false
+    paging: false,
+    columnDefs: [
+        { orderable: false, targets: 5 }
+    ],
+    order: [[1, 'desc']]
 });
 </script>
-
