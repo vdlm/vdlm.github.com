@@ -173,6 +173,7 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2020-12-09 |  36 | Antonis Makropoulos | Practical experiences in accurate video segmentation | n/a |
 | 2021-01-13 |  37 | René Donner         | NeurIPS 2020 Review | [pdf](./Meetups/Meetup_37/slides/TODO) | 
 
+<div class="datatable-end"></div>
+
 <a name="latest_slides"/>
 
-<div class="datatable-end"></div>
