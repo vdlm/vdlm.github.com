@@ -182,15 +182,26 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 <!-- 
 added by Thomas Lidy to enable sortable tables, see https://www.datatables.net
-content in the {} brackets defines options, see https://datatables.net/reference/option/ 
-tried but not working:
+
+This currently applies to all tables. If a specific table shall be affected only,
+'table' shall be replaced by 'table.<class_name>' for a CSS style class, but we don't know how to 
+do this in Markdown.
+
+Content in the {} brackets defines options, see https://datatables.net/reference/option/ 
+# sort by a specific column ('asc' or 'desc')
+   order: [[1, 'desc']]
+
+# disable sorting on some columns (tried but not working):
     columnDefs: [
         { orderable: false, targets: 5 }
-    ],
+    ]
 -->
 <script>
 $('table').DataTable({
     paging: false,
-    order: [[1, 'desc']]
+    order: [[1, 'desc']],
+    columnDefs: [
+        { orderable: false, targets: 4 }
+    ]
 });
 </script>
