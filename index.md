@@ -193,15 +193,12 @@ Content in the {} brackets defines options, see https://datatables.net/reference
 
 # disable sorting on some columns (tried but not working):
     columnDefs: [
-        { orderable: false, targets: 5 }
+        { orderable: false, targets: 4 }
     ]
 -->
 <script>
 $('table').DataTable({
     paging: false,
-    order: [[1, 'desc']],
-    columnDefs: [
-        { orderable: false, targets: 4 }
-    ]
+    order: [[1, 'desc']]
 });
 </script>
