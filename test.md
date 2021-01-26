@@ -1,6 +1,6 @@
 ---
 title: Vienna Deep Learning Meetup
-datatable: true
+datatables: true
 customjs:
 - https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js
 - https://cdn.datatables.net/1.10.23/css/jquery.dataTables.min.css
