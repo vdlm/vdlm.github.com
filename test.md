@@ -1,13 +1,12 @@
 ---
 title: Vienna Deep Learning Meetup
-datatables: true
-customjs:
-- https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js
-- https://cdn.datatables.net/1.10.23/css/jquery.dataTables.min.css
 ---
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.css">
-  
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.js"></script>
+<head>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" />
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+</head>
+
 
 <table id="table_id" class="display">
     <thead>
@@ -38,3 +37,9 @@ Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
 Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
 <div class="datatable-end"></div>
+
+
+
+<script>
+$('table.display').DataTable()
+</script>
