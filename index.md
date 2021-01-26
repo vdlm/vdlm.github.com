@@ -1,7 +1,15 @@
 ---
 title: Vienna Deep Learning Meetup
-datatable: true
 ---
+<head>
+    <!-- added by Thomas Lidy to enable sortable tables, see https://www.datatables.net -->
+    <!-- also see script block at the end of this file -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" />
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+</head>
+
+# Vienna Deep Learning Meetup
 
 ![Logo](./img/dlmeetup_logo_150dpi.png "logo")
 
@@ -96,8 +104,6 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 # Talks & Presentations
 
-<div class="datatable-begin"></div>
-
 | Date       | MU# | Speaker                   | Topic                                                                          | Slides                       |
 |:----------:|:---:|:-------------------------:|:------------------------------------------------------------------------------:|:----------------------------:|
 | 2016-04-07 |  1  | Thomas Lidy & Jan Schlüter     | Deep Learning: History, Approaches, Applications                          | [pdf](./Meetups/Meetup_1/slides/1st_Deep_Learning_Meetup_Presentation.pdf) |
@@ -172,7 +178,10 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 | 2020-12-09 |  36 | Antonis Makropoulos | Practical experiences in accurate video segmentation | n/a |
 | 2021-01-13 |  37 | René Donner         | NeurIPS 2020 Review | [pdf](./Meetups/Meetup_37/slides/TODO) | 
 
-<div class="datatable-end"></div>
-
 <a name="latest_slides"/>
+
+<!-- added by Thomas Lidy to enable sortable tables, see https://www.datatables.net -->
+<script>
+$('table').DataTable()
+</script>
 
