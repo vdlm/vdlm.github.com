@@ -4,16 +4,9 @@ datatable: true
 ---
 
 <script>
-$(document).ready(function(){
-
-    $('table.display').DataTable( {
-        paging: true,
-        stateSave: true,
-        searching: true
-    }
-        );
-});
+$('table').dataTable();
 </script>
+
 
 <div class="datatable-begin"></div>
 
