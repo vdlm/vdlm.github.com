@@ -1,1 +1,0 @@
-vdlm.github.com
