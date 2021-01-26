@@ -32,7 +32,7 @@ title: Vienna Deep Learning Meetup
 
 ## Markdown Table
 
-Food    | Description                           | Category | Sample type
+Food 2  | Description                           | Category | Sample type
 ------- | ------------------------------------- | -------- | -----------
 Apples  | A small, somewhat round ...           | Fruit    | Fuji
 Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
