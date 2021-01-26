@@ -180,14 +180,17 @@ If you want to attend this meetup, sign up at our [Meetup page](https://www.meet
 
 <a name="latest_slides"/>
 
-<!-- added by Thomas Lidy to enable sortable tables, see https://www.datatables.net -->
-<!-- content in the {} brackets defines options, see https://datatables.net/reference/option/ -->
-<script>
-$('table').DataTable({
-    paging: false,
+<!-- 
+added by Thomas Lidy to enable sortable tables, see https://www.datatables.net
+content in the {} brackets defines options, see https://datatables.net/reference/option/ 
+tried but not working:
     columnDefs: [
         { orderable: false, targets: 5 }
     ],
+-->
+<script>
+$('table').DataTable({
+    paging: false,
     order: [[1, 'desc']]
 });
 </script>
