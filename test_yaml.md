@@ -1,13 +1,14 @@
 ---
-title: Tom testing CSV
+title: Tom testing YAML
 ---
 
-Testing loading data from CSV file
+
+Testing loading data from YAML file
 
 # List
 
 <ul>
-{% for member in site.data.test %}
+{% for member in site.data.test2 %}
   <li>
     <a href="https://github.com/{{ member.github }}">
       {{ member.name }}
@@ -15,6 +16,7 @@ Testing loading data from CSV file
   </li>
 {% endfor %}
 </ul>
+
 
 # Table
 
