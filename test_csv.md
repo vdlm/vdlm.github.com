@@ -25,7 +25,7 @@ Testing loading data from CSV file
 
 # Table
 
-<table>
+<table class="display">
   {% for row in site.data.test %}
     {% if forloop.first %}
     <tr>
@@ -43,5 +43,5 @@ Testing loading data from CSV file
 
 
 <script>
-$('table').DataTable();
+$('table.display').DataTable();
 </script>
