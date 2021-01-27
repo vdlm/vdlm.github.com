@@ -25,7 +25,7 @@ Testing loading data from CSV file
 
 # Table
 
-<table class="display">
+<table>
   {% for row in site.data.test %}
     {% if forloop.first %}
     <tr>
@@ -41,11 +41,9 @@ Testing loading data from CSV file
   {% endfor %}
 </table>
 
-# Table direct load
-
-<table class="display" source='_data/test.csv' />
-
 
 <script>
-$('table.display').DataTable();
+$('table').DataTable({
+    paging: false
+});
 </script>
