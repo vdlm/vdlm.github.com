@@ -41,6 +41,10 @@ Testing loading data from CSV file
   {% endfor %}
 </table>
 
+# Table direct load
+
+<table class="display" source='_data/test.csv' />
+
 
 <script>
 $('table.display').DataTable();
