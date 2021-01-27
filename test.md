@@ -44,5 +44,5 @@ Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
 <!-- added by Thomas Lidy to enable sortable tables, see https://www.datatables.net -->
 <script>
-$('table').DataTable()
+$('table').eq(1).DataTable()
 </script>
