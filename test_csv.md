@@ -1,6 +1,13 @@
 ---
 title: Tom testing CSV
 ---
+<head>
+    <!-- added by Thomas Lidy to enable sortable tables, see https://www.datatables.net -->
+    <!-- also see script block at the end of this file -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" />
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+</head>
 
 Testing loading data from CSV file
 
@@ -33,3 +40,8 @@ Testing loading data from CSV file
     {% endtablerow %}
   {% endfor %}
 </table>
+
+
+<script>
+$('table').DataTable();
+</script>
